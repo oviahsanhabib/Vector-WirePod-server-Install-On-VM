@@ -1,2 +1,2 @@
 # Vector WirePod server Install On VM
-This will be step by step guidance to install WirePod server hosting on virtual machine (Ubuntu Server)
+This will provide step-by-step guidance for installing the WirePod server hosting on a Linux virtual machine running Ubuntu Server.
